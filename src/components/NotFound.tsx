@@ -20,7 +20,7 @@ const NotFound: React.FC<NotFoundProps> = ({ language }) => {
     switch (language) {
       case 'en':
         return {
-          title: 'Page Not Found - Transferko Airport Transfer',
+          title: 'Page Not Found - Transferko Airport Transfer Srbobran',
           subtitle: 'The page you are looking for does not exist.',
           description: 'You will be automatically redirected to our homepage in 5 seconds, or click the button below.',
           homeButton: 'Go to Homepage',
@@ -29,7 +29,7 @@ const NotFound: React.FC<NotFoundProps> = ({ language }) => {
         };
       case 'ru':
         return {
-          title: 'Страница не найдена - Transferko Трансфер в Аэропорт',
+          title: 'Страница не найдена - Transferko Трансфер в Аэропорт Србобран',
           subtitle: 'Страница, которую вы ищете, не существует.',
           description: 'Вы будете автоматически перенаправлены на главную страницу через 5 секунд, или нажмите кнопку ниже.',
           homeButton: 'На главную',
@@ -38,7 +38,7 @@ const NotFound: React.FC<NotFoundProps> = ({ language }) => {
         };
       default:
         return {
-          title: 'Stranica nije pronađena - Transferko Aerodromski Transfer',
+          title: 'Stranica nije pronađena - Transferko Aerodromski Transfer Srbobran',
           subtitle: 'Stranica koju tražite ne postoji.',
           description: 'Bićete automatski preusmereni na početnu stranicu za 5 sekundi, ili kliknite dugme ispod.',
           homeButton: 'Idite na početnu',
@@ -120,8 +120,8 @@ const NotFound: React.FC<NotFoundProps> = ({ language }) => {
 
         {/* SEO Footer */}
         <div className="text-slate-400 text-sm">
-          <p>Transferko - Profesionalni aerodromski transfer Novi Sad</p>
-          <p>Licencirani prevoznik • Fiksne cene • 24/7 dostupnost</p>
+          <p>Transferko - Profesionalni aerodromski transfer Srbobran</p>
+          <p>Organizacija prevoza • Fiksne cene • 24/7 dostupnost</p>
         </div>
       </div>
     </div>

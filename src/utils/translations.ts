@@ -7,16 +7,16 @@ export const translations = {
     contact: 'Kontakt',
     
     // Hero - SEO optimized and improved
-    heroTitle: 'Aerodromski Transfer Novi Sad | Pouzdani Prevoz do Aerodroma',
-    heroSubtitle: 'Profesionalni aerodromski transfer servis sa fiksnim cenama. Prevoz do aerodroma Beograd, Budimpešta, Zagreb. Licencirani prevoznik sa iskustvom od 10+ godina.',
+    heroTitle: 'Aerodromski Transfer Srbobran | Pouzdani Prevoz do Aerodroma',
+    heroSubtitle: 'Profesionalni aerodromski transfer servis sa fiksnim cenama. Prevoz do aerodroma Beograd, Budimpešta, Zagreb. Organizacija prevoza sa iskustvom od 10+ godina.',
     heroResponse: 'Rezervišite pouzdani transfer uz garantovane fiksne cene! Profesionalni vozači dostupni 24/7.',
     heroDescription1: 'Profesionalni aerodromski transfer servis sa fiksnim cenama i garantovanom pouzdanošću.',
-    heroDescription2: 'Prevoz do aerodroma Beograd, Budimpešta, Zagreb. Licencirani prevoznik sa 10+ godina iskustva.',
+    heroDescription2: 'Prevoz do aerodroma Beograd, Budimpešta, Zagreb. Organizacija prevoza sa 10+ godina iskustva.',
     bookNow: 'Rezervišite Transfer',
     callNow: 'Pozovite Odmah',
     
     // Trust indicators
-    licensedCarrier: 'Siguran prevoznik',
+    licensedCarrier: 'Siguran transfer partner',
     experienceYears: '10+ godina iskustva',
     availability247: '24/7 dostupnost',
     licensedVehicle: 'Licencirano vozilo',
@@ -51,15 +51,15 @@ export const translations = {
     sendWhatsapp: 'WhatsApp poruka',
     
     // Company Info - SEO optimized
-    companyInfo: 'O Transferko - Licencirani Prevoznik',
+    companyInfo: 'O Transferko - Organizacija Prevoza',
     pib: 'PIB',
     maticniBroj: 'Matični broj',
     status: 'Status',
-    statusValue: 'Registrovani prevoznik putnika',
+    statusValue: 'Organizacija prevoza',
     email: 'Email za rezervacije',
     emailDesc: 'Za rezervacije i dodatne informacije',
     location: 'Sedište firme',
-    locationValue: 'Novi Sad, Vojvodina, Srbija',
+    locationValue: 'Srbobran, Vojvodina, Srbija',
     coverage: 'Aerodromski transfer za celu Srbiju i region',
     
     // WhatsApp messages - will be loaded from Firebase
@@ -74,16 +74,16 @@ export const translations = {
     contact: 'Contact',
     
     // Hero - SEO optimized and improved
-    heroTitle: 'Airport Transfer Novi Sad | Reliable Transport to Airport',
-    heroSubtitle: 'Professional airport transfer service with fixed prices. Transport to Belgrade Airport, Budapest, Zagreb. Licensed carrier with 10+ years experience.',
+    heroTitle: 'Airport Transfer Srbobran | Reliable Transport to Airport',
+    heroSubtitle: 'Professional airport transfer service with fixed prices. Transport to Belgrade Airport, Budapest, Zagreb. Transport organization with 10+ years experience.',
     heroResponse: 'Book reliable transfer with guaranteed fixed prices! Professional drivers available 24/7.',
     heroDescription1: 'Professional airport transfer service with fixed prices and guaranteed reliability.',
-    heroDescription2: 'Transport to Belgrade, Budapest, Zagreb airports. Licensed carrier with 10+ years experience.',
+    heroDescription2: 'Transport to Belgrade, Budapest, Zagreb airports. Transport organization with 10+ years experience.',
     bookNow: 'Book Transfer',
     callNow: 'Call Now',
     
     // Trust indicators
-    licensedCarrier: 'Safe carrier',
+    licensedCarrier: 'Safe transfer partner',
     experienceYears: '10+ years experience',
     availability247: '24/7 availability',
     licensedVehicle: 'Licensed vehicle',
@@ -118,15 +118,15 @@ export const translations = {
     sendWhatsapp: 'WhatsApp message',
     
     // Company Info - SEO optimized
-    companyInfo: 'About Transferko - Licensed Carrier',
+    companyInfo: 'About Transferko - Transport Organization',
     pib: 'Tax ID',
     maticniBroj: 'Registration number',
     status: 'Status',
-    statusValue: 'Registered passenger carrier',
+    statusValue: 'Transport organization',
     email: 'Email for bookings',
     emailDesc: 'For reservations and additional information',
     location: 'Company headquarters',
-    locationValue: 'Novi Sad, Vojvodina, Serbia',
+    locationValue: 'Srbobran, Vojvodina, Serbia',
     coverage: 'Airport transfer for entire Serbia and region',
     
     // WhatsApp messages - will be loaded from Firebase
@@ -141,16 +141,16 @@ export const translations = {
     contact: 'Контакт',
     
     // Hero - SEO optimized and improved
-    heroTitle: 'Трансфер в Аэропорт Нови Сад | Надежная Перевозка в Аэропорт',
-    heroSubtitle: 'Профессиональный трансфер в аэропорт с фиксированными ценами. Перевозка в аэропорт Белграда, Будапешта, Загреба. Лицензированный перевозчик с опытом 10+ лет.',
+    heroTitle: 'Трансфер в Аэропорт Србобран | Надежная Перевозка в Аэропорт',
+    heroSubtitle: 'Профессиональный трансфер в аэропорт с фиксированными ценами. Перевозка в аэропорт Белграда, Будапешта, Загреба. Организация перевозок с опытом 10+ лет.',
     heroResponse: 'Забронируйте надежный трансфер с гарантированными фиксированными ценами! Профессиональные водители доступны 24/7.',
     heroDescription1: 'Профессиональный трансфер в аэропорт с фиксированными ценами и гарантированной надежностью.',
-    heroDescription2: 'Перевозка в аэропорты Белграда, Будапешта, Загреба. Лицензированный перевозчик с опытом 10+ лет.',
+    heroDescription2: 'Перевозка в аэропорты Белграда, Будапешта, Загреба. Организация перевозок с опытом 10+ лет.',
     bookNow: 'Забронировать Трансфер',
     callNow: 'Позвонить',
     
     // Trust indicators
-    licensedCarrier: 'Безопасный перевозчик',
+    licensedCarrier: 'Надежный партнер по трансферу',
     experienceYears: '10+ лет опыта',
     availability247: 'Доступность 24/7',
     licensedVehicle: 'Лицензированное авто',
@@ -185,15 +185,15 @@ export const translations = {
     sendWhatsapp: 'WhatsApp сообщение',
     
     // Company Info - SEO optimized
-    companyInfo: 'О Transferko - Лицензированный Перевозчик',
+    companyInfo: 'О Transferko - Организация Перевозок',
     pib: 'НИН',
     maticniBroj: 'Регистрационный номер',
     status: 'Статус',
-    statusValue: 'Зарегистрированный перевозчик пассажиров',
+    statusValue: 'Организация перевозок',
     email: 'Email для бронирования',
     emailDesc: 'Для резервации и дополнительной информации',
     location: 'Штаб-квартира компании',
-    locationValue: 'Нови Сад, Воеводина, Сербия',
+    locationValue: 'Србобран, Воеводина, Сербия',
     coverage: 'Трансфер в аэропорт по всей Сербии и региону',
     
     // WhatsApp messages - will be loaded from Firebase

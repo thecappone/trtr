@@ -51,19 +51,19 @@ function App() {
       
       // Update document title for SEO
       document.title = language === 'en' 
-        ? 'Page Not Found - Transferko Airport Transfer Novi Sad'
+        ? 'Page Not Found - Transferko Airport Transfer Srbobran'
         : language === 'ru'
         ? 'Страница не найдена - Transferko Трансфер в Аэропорт'
-        : 'Stranica nije pronađena - Transferko Aerodromski Transfer';
+        : 'Stranica nije pronađena - Transferko Aerodromski Transfer Srbobran';
     } else {
       setIs404(false);
       
       // Reset to default title
       document.title = language === 'en'
-        ? 'Airport Transfer Novi Sad | Transferko - Reliable Transport to Airport'
+        ? 'Airport Transfer Srbobran | Transferko - Reliable Transport to Airport'
         : language === 'ru'
-        ? 'Трансфер в Аэропорт Нови Сад | Transferko - Надежная Перевозка'
-        : 'Aerodromski Transfer Novi Sad | Transferko - Pouzdani Prevoz do Aerodroma';
+        ? 'Трансфер в Аэропорт Србобран | Transferko - Надежная Перевозка'
+        : 'Aerodromski Transfer Srbobran | Transferko - Pouzdani Prevoz do Aerodroma';
     }
   }, [language]);
 

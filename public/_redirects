@@ -4,6 +4,8 @@
 http://transferko.rs/* https://transferko.rs/:splat 301!
 http://www.transferko.rs/* https://transferko.rs/:splat 301!
 https://www.transferko.rs/* https://transferko.rs/:splat 301!
+https://transferko.netlify.app/* https://transferko.rs/:splat 301!
+http://transferko.netlify.app/* https://transferko.rs/:splat 301!
 
 # SEO friendly redirects for common misspellings and variations
 /transferko /  301
@@ -22,22 +24,22 @@ https://www.transferko.rs/* https://transferko.rs/:splat 301!
 /segedin /transfer-novi-sad-segedin  301
 
 # SEO landing pages - all redirect to homepage with anchor
-/transfer-novi-sad-aerodrom-beograd /#pricing  301
-/transfer-novi-sad-budimpesta /#pricing  301
-/transfer-novi-sad-zagreb /#pricing  301
-/transfer-novi-sad-temisvar /#pricing  301
-/transfer-novi-sad-nis /#pricing  301
-/transfer-novi-sad-segedin /#pricing  301
-/aerodromski-transfer-novi-sad /#pricing  301
-/taxi-aerodrom-beograd /#pricing  301
-/prevoz-aerodrom-nikola-tesla /#pricing  301
-/licencirani-prevoznik-novi-sad /#about  301
-/fiksne-cene-transfer /#pricing  301
-/24-7-aerodromski-prevoz /#contact  301
-/komforno-vozilo-transfer /#about  301
-/klimatizovano-vozilo-transfer /#about  301
-/peugeot-transfer-novi-sad /#about  301
-/prevoz-putnika-novi-sad /#about  301
+/transfer-novi-sad-aerodrom-beograd / 301
+/transfer-novi-sad-budimpesta / 301
+/transfer-novi-sad-zagreb / 301
+/transfer-novi-sad-temisvar / 301
+/transfer-novi-sad-nis / 301
+/transfer-novi-sad-segedin / 301
+/aerodromski-transfer-novi-sad / 301
+/taxi-aerodrom-beograd / 301
+/prevoz-aerodrom-nikola-tesla / 301
+/organizacija-prevoza-srbobran / 301
+/fiksne-cene-transfer / 301
+/24-7-aerodromski-prevoz / 301
+/komforno-vozilo-transfer / 301
+/klimatizovano-vozilo-transfer / 301
+/peugeot-transfer-novi-sad / 301
+/prevoz-putnika-novi-sad / 301
 
 # Handle all other non-existing pages - SPA fallback
 /* /index.html 200

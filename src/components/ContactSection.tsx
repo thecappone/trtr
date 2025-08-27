@@ -107,7 +107,7 @@ const ContactSection: React.FC<ContactProps> = ({ language }) => {
                 </div>
                 <div>
                   <div className="font-bold text-slate-800 text-lg">{t.status}:</div>
-                  <div className="text-slate-600 font-medium">{t.statusValue}</div>
+                  <div className="text-slate-600 font-medium">Organizacija prevoza</div>
                 </div>
               </div>
 

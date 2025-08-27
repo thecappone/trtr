@@ -38,14 +38,14 @@ const defaultRoutes: RoutePrice[] = [
       ru: 'за автомобиль (цена до 3 человек, за 4-го взрослого +1000 динаров к цене, дети без доплаты)'
     },
     names: {
-      sr: 'Novi Sad ⇄ Aerodrom Beograd',
-      en: 'Novi Sad ⇄ Belgrade Airport',
-      ru: 'Нови Сад ⇄ Аэропорт Белград'
+      sr: 'Srbobran ⇄ Aerodrom Beograd',
+      en: 'Srbobran ⇄ Belgrade Airport',
+      ru: 'Србобран ⇄ Аэропорт Белград'
     },
     whatsappMessages: {
-      sr: 'Zdravo! Zainteresovan/a sam za aerodromski transfer Novi Sad - Beograd. Molim Vas pošaljite mi više informacija o rezervaciji.',
-      en: 'Hello! I am interested in airport transfer Novi Sad - Belgrade. Please send me more information about booking.',
-      ru: 'Здравствуйте! Меня интересует трансфер в аэропорт Нови Сад - Белград. Пожалуйста, пришлите информацию о бронировании.'
+      sr: 'Zdravo! Zainteresovan/a sam za aerodromski transfer Srbobran - Beograd. Molim Vas pošaljite mi više informacija o rezervaciji.',
+      en: 'Hello! I am interested in airport transfer Srbobran - Belgrade. Please send me more information about booking.',
+      ru: 'Здравствуйте! Меня интересует трансфер в аэропорт Србобран - Белград. Пожалуйста, пришлите информацию о бронировании.'
     }
   },
   {
@@ -59,14 +59,14 @@ const defaultRoutes: RoutePrice[] = [
       ru: 'за автомобиль (цена до 3 человек, за 4-го взрослого +1500 динаров к цене, дети без доплаты)'
     },
     names: {
-      sr: 'Novi Sad ⇄ Budimpešta Aerodrom',
-      en: 'Novi Sad ⇄ Budapest Airport',
-      ru: 'Нови Сад ⇄ Аэропорт Будапешт'
+      sr: 'Srbobran ⇄ Budimpešta Aerodrom',
+      en: 'Srbobran ⇄ Budapest Airport',
+      ru: 'Србобран ⇄ Аэропорт Будапешт'
     },
     whatsappMessages: {
-      sr: 'Zdravo! Zainteresovan/a sam za međunarodni transfer Novi Sad - Budimpešta. Molim Vas kontaktirajte me za rezervaciju.',
-      en: 'Hello! I am interested in international transfer Novi Sad - Budapest. Please contact me for booking.',
-      ru: 'Здравствуйте! Меня интересует международный трансфер Нови Сад - Будапешт. Пожалуйста, свяжитесь со мной для бронирования.'
+      sr: 'Zdravo! Zainteresovan/a sam za međunarodni transfer Srbobran - Budimpešta. Molim Vas kontaktirajte me za rezervaciju.',
+      en: 'Hello! I am interested in international transfer Srbobran - Budapest. Please contact me for booking.',
+      ru: 'Здравствуйте! Меня интересует международный трансфер Србобран - Будапешт. Пожалуйста, свяжитесь со мной для бронирования.'
     }
   },
   {
@@ -80,14 +80,14 @@ const defaultRoutes: RoutePrice[] = [
       ru: 'за автомобиль (цена до 3 человек, за 4-го взрослого +2000 динаров к цене, дети без доплаты)'
     },
     names: {
-      sr: 'Novi Sad ⇄ Zagreb Aerodrom',
-      en: 'Novi Sad ⇄ Zagreb Airport',
-      ru: 'Нови Сад ⇄ Аэропорт Загреб'
+      sr: 'Srbobran ⇄ Zagreb Aerodrom',
+      en: 'Srbobran ⇄ Zagreb Airport',
+      ru: 'Србобран ⇄ Аэропорт Загреб'
     },
     whatsappMessages: {
-      sr: 'Zdravo! Zainteresovan/a sam za međunarodni transfer Novi Sad - Zagreb. Molim Vas pošaljite mi detalje o rezervaciji.',
-      en: 'Hello! I am interested in international transfer Novi Sad - Zagreb. Please send me booking details.',
-      ru: 'Здравствуйте! Меня интересует международный трансфер Нови Сад - Загреб. Пожалуйста, пришлите детали бронирования.'
+      sr: 'Zdravo! Zainteresovan/a sam za međunarodni transfer Srbobran - Zagreb. Molim Vas pošaljite mi detalje o rezervaciji.',
+      en: 'Hello! I am interested in international transfer Srbobran - Zagreb. Please send me booking details.',
+      ru: 'Здравствуйте! Меня интересует международный трансфер Србобран - Загреб. Пожалуйста, пришлите детали бронирования.'
     }
   },
   {
@@ -101,14 +101,14 @@ const defaultRoutes: RoutePrice[] = [
       ru: 'за автомобиль (цена до 3 человек, за 4-го взрослого +1200 динаров к цене, дети без доплаты)'
     },
     names: {
-      sr: 'Novi Sad ⇄ Temišvar Aerodrom',
-      en: 'Novi Sad ⇄ Timisoara Airport',
-      ru: 'Нови Сад ⇄ Аэропорт Тимишоара'
+      sr: 'Srbobran ⇄ Temišvar Aerodrom',
+      en: 'Srbobran ⇄ Timisoara Airport',
+      ru: 'Србобран ⇄ Аэропорт Тимишоара'
     },
     whatsappMessages: {
-      sr: 'Zdravo! Zainteresovan/a sam za transfer Novi Sad - Temišvar. Molim Vas kontaktirajte me za više informacija.',
-      en: 'Hello! I am interested in transfer Novi Sad - Timisoara. Please contact me for more information.',
-      ru: 'Здравствуйте! Меня интересует трансфер Нови Сад - Тимишоара. Пожалуйста, свяжитесь со мной для получения информации.'
+      sr: 'Zdravo! Zainteresovan/a sam za transfer Srbobran - Temišvar. Molim Vas kontaktirajte me za više informacija.',
+      en: 'Hello! I am interested in transfer Srbobran - Timisoara. Please contact me for more information.',
+      ru: 'Здравствуйте! Меня интересует трансфер Србобран - Тимишоара. Пожалуйста, свяжитесь со мной для получения информации.'
     }
   },
   {
@@ -122,14 +122,14 @@ const defaultRoutes: RoutePrice[] = [
       ru: 'за автомобиль (цена до 3 человек, за 4-го взрослого +1300 динаров к цене, дети без доплаты)'
     },
     names: {
-      sr: 'Novi Sad ⇄ Niš Aerodrom',
-      en: 'Novi Sad ⇄ Niš Airport',
-      ru: 'Нови Сад ⇄ Аэропорт Ниш'
+      sr: 'Srbobran ⇄ Niš Aerodrom',
+      en: 'Srbobran ⇄ Niš Airport',
+      ru: 'Србобран ⇄ Аэропорт Ниш'
     },
     whatsappMessages: {
-      sr: 'Zdravo! Zainteresovan/a sam za transfer Novi Sad - Niš. Molim Vas pošaljite mi informacije o rezervaciji.',
-      en: 'Hello! I am interested in transfer Novi Sad - Niš. Please send me booking information.',
-      ru: 'Здравствуйте! Меня интересует трансфер Нови Сад - Ниш. Пожалуйста, пришлите информацию о бронировании.'
+      sr: 'Zdravo! Zainteresovan/a sam za transfer Srbobran - Niš. Molim Vas pošaljite mi informacije o rezervaciji.',
+      en: 'Hello! I am interested in transfer Srbobran - Niš. Please send me booking information.',
+      ru: 'Здравствуйте! Меня интересует трансфер Србобран - Ниш. Пожалуйста, пришлите информацию о бронировании.'
     }
   },
   {
@@ -143,14 +143,14 @@ const defaultRoutes: RoutePrice[] = [
       ru: 'за автомобиль (цена до 3 человек, за 4-го взрослого +1100 динаров к цене, дети без доплаты)'
     },
     names: {
-      sr: 'Novi Sad ⇄ Segedin',
-      en: 'Novi Sad ⇄ Szeged',
-      ru: 'Нови Сад ⇄ Сегед'
+      sr: 'Srbobran ⇄ Segedin',
+      en: 'Srbobran ⇄ Szeged',
+      ru: 'Србобран ⇄ Сегед'
     },
     whatsappMessages: {
-      sr: 'Zdravo! Zainteresovan/a sam za transfer Novi Sad - Segedin. Molim Vas kontaktirajte me za rezervaciju.',
-      en: 'Hello! I am interested in transfer Novi Sad - Szeged. Please contact me for booking.',
-      ru: 'Здравствуйте! Меня интересует трансфер Нови Сад - Сегед. Пожалуйста, свяжитесь со мной для бронирования.'
+      sr: 'Zdravo! Zainteresovan/a sam za transfer Srbobran - Segedin. Molim Vas kontaktirajte me za rezervaciju.',
+      en: 'Hello! I am interested in transfer Srbobran - Szeged. Please contact me for booking.',
+      ru: 'Здравствуйте! Меня интересует трансфер Србобран - Сегед. Пожалуйста, свяжитесь со мной для бронирования.'
     }
   }
 ];

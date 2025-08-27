@@ -98,7 +98,7 @@ const Footer: React.FC<FooterProps> = ({ language }) => {
                 </div>
                 <div className="bg-slate-700 p-3 rounded-lg">
                   <p><span className="text-lime-400 font-bold">{t.status}:</span></p>
-                  <p className="text-sm mt-1">{t.statusValue}</p>
+                  <p className="text-sm mt-1">Organizacija prevoza</p>
                 </div>
               </div>
             </div>
@@ -110,7 +110,7 @@ const Footer: React.FC<FooterProps> = ({ language }) => {
                 &copy; 2024 Transferko. Sva prava zadržana.
               </p>
               <div className="flex items-center space-x-4 text-slate-400 text-sm">
-                <span>Licencirani prevoznik putnika</span>
+                <span>Organizacija prevoza</span>
                 <span>•</span>
                 <span>24/7 dostupnost</span>
                 <span>•</span>

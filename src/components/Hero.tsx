@@ -45,7 +45,7 @@ const Hero: React.FC<HeroProps> = ({ language }) => {
             <div className="flex flex-wrap gap-4 mb-8">
               <div className="flex items-center bg-lime-400 px-4 py-2 rounded-full">
                 <Shield className="h-5 w-5 text-slate-800 mr-2" />
-                <span className="text-slate-800 font-bold text-sm">{t.licensedCarrier}</span>
+                <span className="text-slate-800 font-bold text-sm">Siguran transfer partner</span>
               </div>
               <div className="flex items-center bg-slate-800 px-4 py-2 rounded-full">
                 <Star className="h-5 w-5 text-lime-400 mr-2" />
